@@ -1,0 +1,23 @@
+cd client
+    npm install
+    npm install react-router-dom
+    npm install axios
+    npm install reactstrap
+    npm install --save sweetalert2
+    npm start
+
+cd ..
+
+cd server
+    sudo apt install pythonpy
+    sudo apt-get install python3-venv
+    pip3 install flask
+    pip3 install numpy
+    pip3 install imutils opencv-python
+    pip3 install flask-SQLAlchemy
+    pip3 install flask-restful
+    pip3 flask-jwt-extended
+    python3 -m venv env(linux/mac)
+    source env/bin/activate(ubuntu/mac) / env\Scripts\activate(windows)
+    python index.py
+
